@@ -21,6 +21,7 @@
 *Дайте ответ в виде снимков экрана.*
 ![mkdir](mkdir.jpg)
 ![mkdir2](mkdir2.jpg)
+![mkdir3](mkdir3.jpg)
 ------
 
 ### Задание 3

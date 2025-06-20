@@ -24,8 +24,11 @@
 - [материал 3](https://efsol.ru/manuals/active-directory.html).
 
 *Дайте ответ в виде снимков экрана.*
-
 ------
+
+![ad01](ad01.jpg)
+![ad03](ad03.jpg)
+
 
 ### Задание 2
 
@@ -38,6 +41,12 @@
 
 ------
 
+![ad02](ad02.jpg)
+![ad04](ad04.jpg)
+![ad05](ad05.jpg)
+
+
+
 ### Задание 3
 
 - Создайте или используйте существующую ВМ с установленной ОС Windows и подключите к домену [ссылке](https://docs.microsoft.com/ru-ru/windows-server/identity/ad-fs/deployment/join-a-computer-to-a-domain);
@@ -46,6 +55,12 @@
 *Дайте ответ в виде снимков экрана.*
 
 ------
+
+![ad06](ad06.jpg)
+![ad07](ad07.jpg)
+![ad08](ad08.jpg)
+![ad09](ad09.jpg)
+
 
 ## Дополнительные задания со звёздочкой.
 
